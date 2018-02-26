@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Projekt MIO</title>
+
+
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css"
+	integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ=="
+	crossorigin=""/>
+	<script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"
+		integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
+		crossorigin=""></script>
+
+	<link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/base.css') }}">
+  <link href='http://fonts.googleapis.com/css?family=Titillium+Web&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+	<script type="text/javascript" src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+</head>
+<body>
+
+
+
+  <div class="contener" id="title-part">
+
+    <div id="triangle3"></div>
+		<div id="triangle1"></div>
+
+		<h1>Kraków</h1>
+    <h3>Polska dolina krzemowa</h3>
+    <h5>Przedstaw swoje oczekiwania, a my znajdziemy ofertę pracy<br> dopasowaną do Ciebie</h5>
+
+		<div onClick="document.getElementById('menu-part').scrollIntoView();" class="arrow"></div>
+
+	</div>
+
+
+
+  <div class="contener" id="menu-part">
+
+		<h3>Podaj swoje wymagania</h5>
+
+		<input type="text" id="experience" name="experience" placeholder="Lata doświadczenia" />
+    <input type="text" id="earnings" name="earnings" placeholder="Zarobki brutto" />
+    <input type="text" id="distance" name="distance" placeholder="Odległość" />
+    <input type="text" id="employees" name="employees" placeholder="Liczba pracowników" />
+
+		<h3>Wskaż miejsce zamieszkania</h5>
+
+		<div id="mapid">
+			<script src="{{ url_for('static', filename='scripts/map.js') }}"></script>
+		</div>
+
+		<div id="confirm" class="arrow"></div>
+  </div>
+
+
+
+
+  <div class="contener" id="score-part">
+		<h3>Wykorzystywany algorytm wybrał propozycję pracy najbliższą Twoim wymaganiom</h3>
+		<h3>Najlepsza oferta to...</h3>
+
+		<h1 id="best-offer-company"></h1>
+		<h5 id="best-offer-adress"></h5>
+		<h5 id="best-offer-profil"></h5>
+		<h5 id="best-offer-earnings"></h5>
+		<h5 id="best-offer-employees"></h5>
+		<h5 id="best-offer-distance"></h5>
+
+		<div id="triangle2"></div>
+  </div>
+
+	<div id="footer">
+		<p>Projekt MIO</p>
+		<p>Krzysztof Romanowski, Aleksandra Holik</p>
+		<p>Copyright &copy; Kraków 2017</p>
+	</div>
+
+
+	<script src="{{ url_for('static', filename='scripts/myscript.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,168 @@
+1) ABB:
+- ABB Sp. z o.o. Korporacyjne Centrum Badawcze: Starowiślna 13A, 31-038 Kraków
+- ABB Business Services: Przy Rondzie 4, 31-547 Kraków
+- ABB Sp. z o.o. Biuro Stacji i Systemów Elektroenergetycznych: Wadowicka 12, 30-415 Kraków
+
+http://new.abb.com/pl/kariera
+
+800 Kraków
+135000 świat
+
+	Java Developer
+	C/C++ Developer
+	C# Developer
+
+	Brutto:
+	- staz 1900 
+	- junior 4600 
+	- regular 7500
+	- senior 12500
+
+2) Akamai:
+- Akamai Technologies: Vinci Office Center, Opolska 100, 30-001 Kraków
+
+https://www.akamai.com/uk/en/about/careers/
+
+170 Kraków
+5500 świat
+
+	Brutto:
+	- staz 2400 
+	- junior 5200 
+	- regular 7300
+	- senior 11500
+
+3) Cisco:
+- Cisco Systems bld.C: Powstańców Wielkopolskich 13c, 30-707 Kraków
+
+https://www.cisco.com/c/en/us/about/careers.html
+
+1500 Kraków
+70000 świat
+
+	Brutto:
+	- staz 1500 
+	- junior 4900 
+	- regular 8000
+	- senior 13000
+
+4) Comarch:
+- Comarch Technologies: prof. Michała Życzkowskiego 27, Budynek SSE 6, 31-864 Kraków
+- Comarch S.A. - Główna Siedziba: al. Jana Pawła II 39a, Budynek SSE1, 31-864 Kraków
+
+https://kariera.comarch.pl/oferty-pracy/praca/
+
+3000 Kraków
+5400 świat
+
+	Java Developer
+	C/C++ Developer
+	C# Developer
+
+	Brutto:
+	- staz 2300 
+	- junior 4700 
+	- regular 6000
+	- senior 10000
+
+5) Ericsson:
+- Ericsson Sp. z o.o.: Michała Bobrzyńskiego 12, 30-348 Kraków
+
+https://www.ericsson.com/en/careers/global-locations/poland/poland-praca-w-ericsson
+
+2800 Kraków
+110000 świat
+
+	Software Tester/Developer
+	C/C++ Developer
+
+	Brutto:
+	- staz 1500
+	- junior 3900
+	- regular 5900
+	- senior 9000 
+
+
+6) Luxoft:
+- Luxoft Cracow - Quattro Five: Aleja Generała Tadeusza Bora-Komorowskiego 25, Quattro Business Park Five, 31-476 Kraków
+
+https://career.luxoft.com/
+
+600 Kraków
+12700 świat
+
+	Brutto:
+	- staz 2400
+	- junior 5600
+	- regular 8800
+	- senior 15000
+
+7) Motorola:
+- Motorola Solutions Systems Polska Sp. z o.o.: Czerwone Maki 82, 30-392 Kraków
+
+https://pracawmotoroli.pl/oferty-pracy/
+
+1100 Kraków
+18000 świat
+	
+	Brutto:
+	- staz 2200
+	- junior 4400
+	- regular 6800
+	- senior 11000
+
+8) Nokia:
+- Nokia Solutions and Networks Sp. z o.o.: Prof. Michała Bobrzyńskiego 46, 30-348 Kraków
+- Nokia Solutions and Networks Sp. z o.o.: Aleja Pokoju 78, 31-564 Kraków
+- Nokia Serwis PM: Rajska 18b, 30-001 Kraków
+
+http://nokiakrakow.pl/pl/oferty-pracy
+
+600 Kraków
+58000 świat
+
+	C/C++ Developer
+	Python/Bash 
+	Java Developer
+
+	Brutto:
+	- staz 2000
+	- junior 4200
+	- regular 7000
+	- senior 10500 
+
+9) Sabre:
+- Sabre Polska Sp. z o.o.: Wadowicka 6D, 30-415 Kraków
+
+https://www.sabre.com/careers/
+
+1500 Kraków
+10000 świat
+
+	Java Developer
+
+	Brutto:
+	- staz 2400
+	- junior 4600
+	- regular 7300
+	- senior 12000  
+
+10) Base Lab
+- Wyczółkowskiego 7, 30-118 Kraków
+
+https://getbase.com/careers/
+
+200 Kraków
+
+	Java Developer
+	Python Developer
+
+	Brutto:
+	- staz 2500
+	- junior 5200
+	- regular 8500
+	- senior 14000
+
+
+
+

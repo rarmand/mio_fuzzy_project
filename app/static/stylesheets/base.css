@@ -1,0 +1,374 @@
+@media screen and (min-width: 1270px) {
+  .contener {
+    width: 1260px;
+  }
+
+  #title-part h1 {
+    padding-top: 210px;
+  }
+
+  #triangle1 {
+    border-top: 260px solid transparent;
+    border-left: 500px solid #232F59;
+    border-bottom: 260px solid transparent;
+  }
+
+  #triangle2 {
+    border-right: 460px solid transparent;
+    border-bottom: 600px solid #bced65;
+    border-left: 460px solid transparent;
+  }
+
+  #triangle3 {
+    border-top: 260px solid transparent;
+    border-left: 500px solid  #C70039 ;
+    border-bottom: 260px solid transparent;
+  }
+
+  #menu-part input {
+    width: 280px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1269px) {
+  .contener {
+    width: 768px;
+  }
+
+  #title-part h1 {
+    padding-top: 260px;
+  }
+
+  #title-part h5 {
+    padding-top: 80px !important;
+    font-size: 25px !important;
+  }
+
+  #title-part h3 {
+    font-size: 35px !important;
+  }
+
+  #triangle1 {
+    border-top: 160px solid transparent;
+    border-left: 300px solid #232F59;
+    border-bottom: 160px solid transparent;
+  }
+
+  #triangle2 {
+    border-right: 360px solid transparent;
+    border-bottom: 500px solid #bced65;
+    border-left: 360px solid transparent;
+    left: 3% !important;
+  }
+
+  #triangle3 {
+    border-top: 160px solid transparent;
+    border-left: 300px solid  #C70039 ;
+    border-bottom: 160px solid transparent;
+  }
+
+  #menu-part input {
+    width: 165px;
+  }
+
+  #score-part h3 {
+    font-size: 28px !important;
+    padding-top: 20px !important;
+  }
+
+  #score-part h1 {
+    font-size: 53px !important;
+  }
+}
+
+
+@media screen and (max-width: 767px) {
+  .contener {
+    width: 100%;
+  }
+
+  #title-part h1 {
+    padding-top: 280px;
+    font-size: 50px !important;
+  }
+
+  #title-part h5 {
+    padding-top: 40px !important;
+    font-size: 22px !important;
+  }
+
+  #title-part h3 {
+    font-size: 32px !important;
+  }
+
+  #triangle1 {
+    border-right: 150px solid transparent;
+    border-top: 280px solid #232F59;
+    border-left: 150px solid transparent;
+    top: 0 !important;
+  }
+
+  #triangle2 {
+    border-right: 320px solid transparent;
+    border-bottom: 320px solid #bced65;
+    border-left: 0 solid transparent;
+    left: 0 !important;
+  }
+
+  #triangle3 {
+    border-left: 100px solid transparent;
+    border-top: 170px solid  #C70039 ;
+    border-right: 100px solid transparent;
+    top: 0 !important;
+    left: 180px !important;
+  }
+
+  #menu-part input {
+    width:85%;
+    margin-bottom: 10px !important;
+    line-height: 2em !important;
+    font-size: 18px !important;
+  }
+
+  #menu-part h3 {
+    font-size: 28px !important;
+  }
+
+  #menu-part #mapid {
+    height: 40% !important;
+  }
+
+  #score-part h3 {
+    font-size: 28px !important;
+    padding-top: 20px !important;
+  }
+
+  #score-part h1 {
+    font-size: 40px !important;
+  }
+
+  #score-part h5 {
+    font-size: 20px !important;
+  }
+
+  #score-part h3:first-child {
+    display: none;
+  }
+}
+
+
+body {
+  margin:0;
+  padding:0;
+  font-family: 'Titillium Web', sans-serif;
+  color: #333333;
+}
+
+.contener {
+  margin: auto;
+}
+
+#title-part {
+  position: relative;
+  z-index: 10;
+  text-align: right;
+  height: 900px;
+}
+
+
+#title-part h1, h3 {
+  text-transform: uppercase;
+}
+
+#title-part h1 {
+  font-size: 70px;
+  margin: 0;
+}
+#title-part h3 {
+  font-size: 50px;
+}
+#title-part h5 {
+  padding-top: 100px;
+  font-size: 30px;
+}
+
+
+#triangle1 {
+  width: 0;
+  height: 0;
+  position: absolute;
+  z-index: -1;
+  top: 200px;
+  left: 0;
+}
+
+#triangle2 {
+  width: 0;
+  height: 0;
+  position: absolute;
+  z-index: -1;
+  bottom: 0;
+  left: 13.5%;
+}
+
+#triangle3 {
+  width: 0;
+  height: 0;
+  position: absolute;
+  z-index: -1;
+  top: 100px;
+  left: 0;
+}
+
+
+.arrow,
+.arrow:before {
+  position: absolute;
+  left: 50%;
+}
+
+.arrow {
+  width: 40px;
+  height: 40px;
+  bottom: 50px;
+  margin: -20px 0 0 -20px;
+  -webkit-transform: rotate(45deg);
+  border-left: none;
+  border-top: none;
+  border-right: 2px #5d5d5d solid;
+  border-bottom: 2px #5d5d5d solid;
+  cursor: pointer;
+}
+
+.arrow:before {
+  content: "";
+  width: 20px;
+  height: 20px;
+  top: 50%;
+  margin: -10px 0 0 -10px;
+  border-left: none;
+  border-top: none;
+  border-right: 1px #5d5d5d solid;
+  border-bottom: 1px #5d5d5d solid;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-name: arrow;
+  cursor: pointer;
+}
+
+@keyframes arrow {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-10px, -10px);
+  }
+}
+
+
+
+#menu-part {
+  height: 900px;
+  position: relative;
+}
+
+#menu-part h3 {
+  font-size: 30px;
+  padding-top: 30px;
+  padding-left: 30px;
+  text-transform: none;
+}
+
+#menu-part h5 {
+  padding-top: 100px;
+  font-size: 22px;
+}
+
+#menu-part input {
+	background-color: #f4f4f4;
+	line-height: 4em;
+	float: left;
+	margin-left: 25px;
+  border: none;
+	text-align: center;
+	font-size: 16px;
+  margin-bottom: 60px;
+}
+
+::-webkit-input-placeholder {
+	text-align: center;
+	font-size: 16px;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+	text-align: center;
+	font-size: 16px;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+	text-align: center;
+	font-size: 16px;
+
+}
+
+:-ms-input-placeholder {
+	text-align: center;
+	font-size: 14px;
+}
+
+
+#menu-part #mapid {
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+  height: 50%;
+}
+
+#score-part {
+  height: 760px;
+  position: relative;
+  display: none;
+}
+
+#score-part h3 {
+  padding-top: 30px;
+}
+
+#score-part h3:nth-child(2) {
+  font-size: 35px;
+}
+
+#score-part #best-offer-profil {
+  text-transform: capitalize;
+}
+
+#score-part h1 {
+  font-size: 70px;
+  text-align: center;
+}
+
+#score-part h5 {
+  font-size: 22px;
+  text-align: center;
+  padding: 0;
+  margin: 10px;
+  font-weight: none;
+}
+
+#footer {
+  color: white;
+  background-color: #0C1115;
+  float: left;
+	overflow: hidden;
+	width: 100%;
+	height: 140px;
+	padding-top: 2vh;
+  padding-bottom: 2vh;
+	text-align: center;
+}
+
+#footer p:first-child {
+  text-transform: uppercase;
+  font-weight: bold;
+}

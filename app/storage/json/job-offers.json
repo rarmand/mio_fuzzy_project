@@ -1,0 +1,213 @@
+[
+
+	{
+		"company": "ABB",
+		"name": "ABB Sp. z o.o. Korporacyjne Centrum Badawcze",
+		"address": "Starowiślna 13A, 31-038 Kraków",
+		"coordinates": [50.05786000000001, 19.942522000000054],
+		"employees": 800,
+		"earnings": {
+			"intern": 1900,
+			"junior": 4600,
+			"regular": 7500,
+			"senior": 12500
+		}
+	},
+
+	{
+		"company": "ABB",
+		"name": "ABB Business Services",
+		"address": "Przy Rondzie 4, 31-547 Kraków",
+		"coordinates": [50.0646781, 19.961381699999947],
+		"employees": 800,
+		"earnings": {
+			"intern": 1900,
+			"junior": 4600,
+			"regular": 7500,
+			"senior": 12500
+		}
+	},
+
+	{
+		"company": "ABB",
+		"name": "ABB Sp. z o.o. Biuro Stacji i Systemów Elektroenergetycznych",
+		"address": "Wadowicka 12, 30-415 Kraków",
+		"coordinates": [50.03067530000001, 19.938147200000003],
+		"employees": 800,
+		"earnings": {
+			"intern": 1900,
+			"junior": 4600,
+			"regular": 7500,
+			"senior": 12500
+		}
+	},
+
+	{
+		"company": "Akamai",
+		"name": "Akamai Technologies",
+		"address": "Vinci Office Center, Opolska 100, 30-001 Kraków",
+		"coordinates": [50.08918569999999, 19.946474299999977],
+		"employees": 170,
+		"earnings": {
+			"intern": 2400,
+			"junior": 5200,
+			"regular": 7400,
+			"senior": 11500
+		}
+	},
+
+	{
+		"company": "Cisco",
+		"name": "Cisco Systems bld.C",
+		"address": "Powstańców Wielkopolskich 13c, 30-707 Kraków",
+		"coordinates": [50.08918569999999, 19.946474299999977],
+		"employees": 1500,
+		"earnings": {
+			"intern": 1500,
+			"junior": 4900,
+			"regular": 8000,
+			"senior": 13000
+		}
+	},
+
+	{
+		"company": "Comarch",
+		"name": "Comarch Technologies",
+		"address": "prof. Michała Życzkowskiego 27, Budynek SSE 6, 31-864 Kraków",
+		"coordinates": [50.080362, 19.991638999999964],
+		"employees": 3000,
+		"earnings": {
+			"intern": 2300,
+			"junior": 4700,
+			"regular": 6000,
+			"senior": 10000
+		}
+	},
+
+	{
+		"company": "Comarch",
+		"name": "Comarch S.A. - Główna Siedziba",
+		"address": "al. Jana Pawła II 39a, Budynek SSE1, 31-864 Kraków",
+		"coordinates": [50.0769279, 19.993469000000005],
+		"employees": 3000,
+		"earnings": {
+			"intern": 2300,
+			"junior": 4700,
+			"regular": 6000,
+			"senior": 10000
+		}
+	},
+
+	{
+		"company": "Ericsson",
+		"name": "Ericsson Sp. z o.o.",
+		"address": "Michała Bobrzyńskiego 12, 30-348 Kraków",
+		"coordinates": [50.0205547, 19.89726900000005],
+		"employees": 2800,
+		"earnings": {
+			"intern": 1500,
+			"junior": 3900,
+			"regular": 5900,
+			"senior": 9000
+		}
+	},
+
+	{
+		"company": "Luxoft",
+		"name": "Luxoft Cracow - Quattro Five",
+		"address": "Aleja Generała Tadeusza Bora-Komorowskiego 25, Quattro Business Park Five, 31-476 Kraków",
+		"coordinates": [50.087278, 19.9753422],
+		"employees": 600,
+		"earnings": {
+			"intern": 2400,
+			"junior": 5600,
+			"regular": 8800,
+			"senior": 5000
+		}
+	},
+
+	{
+		"company": "Motorola",
+		"name": "Motorola Solutions Systems Polska Sp. z o.o.",
+		"address": "Czerwone Maki 82, 30-392 Kraków",
+		"coordinates": [50.0204701, 19.893146300000012],
+		"employees": 1100,
+		"earnings": {
+			"intern": 2200,
+			"junior": 4400,
+			"regular": 6800,
+			"senior": 11000
+		}
+	},
+
+	{
+		"company": "Nokia",
+		"name": "Nokia Solutions and Networks Sp. z o.o.",
+		"address": "Prof. Michała Bobrzyńskiego 46, 30-348 Kraków",
+		"coordinates": [50.0194835, 19.89246460000004],
+		"employees": 600,
+		"earnings": {
+			"intern": 2000,
+			"junior": 4200,
+			"regular": 7000,
+			"senior": 10500
+		}
+	},
+
+	{
+		"company": "Nokia",
+		"name": "Nokia Solutions and Networks Sp. z o.o.",
+		"address": "Aleja Pokoju 78, 31-564 Kraków",
+		"coordinates": [50.0693289, 20.009958900000015],
+		"employees": 600,
+		"earnings": {
+			"intern": 2000,
+			"junior": 4200,
+			"regular": 7000,
+			"senior": 10500
+		}
+	},
+
+	{
+		"company": "Nokia",
+		"name": "Nokia Serwis PM",
+		"address": "Rajska 18b, 30-001 Kraków",
+		"coordinates": [50.0646807, 19.92896989999997],
+		"employees": 600,
+		"earnings": {
+			"intern": 2000,
+			"junior": 4200,
+			"regular": 7000,
+			"senior": 10500
+		}
+	},
+
+	{
+		"company": "Sabre",
+		"name": "Sabre Polska Sp. z o.o.",
+		"address": "Wadowicka 6D, 30-415 Kraków",
+		"coordinates": [50.0328587, 19.939115300000026],
+		"employees": 1500,
+		"earnings": {
+			"intern": 2400,
+			"junior": 4600,
+			"regular": 7300,
+			"senior": 12000
+		}
+	},
+
+	{
+		"company": "Base Lab",
+		"name": "Base Lab",
+		"address": "Wyczółkowskiego 7, 30-118 Kraków",
+		"coordinates": [50.0572903, 19.915005800000017],
+		"employees": 200,
+		"earnings": {
+			"intern": 2500,
+			"junior": 5200,
+			"regular": 8500,
+			"senior": 14000
+		}
+	}
+
+]
