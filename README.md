@@ -4,6 +4,7 @@ Aplikacja internetowa wspomagająca wybór najlepszej oferty pracy.
 Stworzona wspólnie w zespole 2 studentów.
 
 frontend - Aleksandra Holik
+
 backend - Krzysztof Romanowski
 
 ### Wymagania ###
